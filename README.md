@@ -40,3 +40,21 @@ Bar plot showing the count of reviews by star rating.
 Sentiment analysis bar plots:
 Positive, Neutral, Negative, and Compound sentiments grouped by star rating.
 Sample review outputs for most positive/negative reviews and user-selected ratings.
+## Screenshots 
+
+[![WhatsApp-Image-2025-07-11-at-9.36.17-PM.th.jpg](https://pasteimg.com/images/2025/07/13/WhatsApp-Image-2025-07-11-at-9.36.17-PM.th.jpg)](https://pasteimg.com/image/ByPJV)
+
+![Image](https://github.com/user-attachments/assets/4e05b03a-8b48-48ff-bc01-b4ed6e3c875e)
+
+[![WhatsApp-Image-2025-07-11-at-9.36.32-PM.jpg](https://pasteimg.com/images/2025/07/13/WhatsApp-Image-2025-07-11-at-9.36.32-PM.jpg)](https://pasteimg.com/image/ByWSH)
+
+[![WhatsApp-Image-2025-07-11-at-9.36.44-PM-1.jpg](https://pasteimg.com/images/2025/07/13/WhatsApp-Image-2025-07-11-at-9.36.44-PM-1.jpg)](https://pasteimg.com/image/ByYPs)
+
+![Image](https://github.com/user-attachments/assets/21ca33b1-766d-4f86-9ba9-ded10f80f956)
+
+## Demo
+
+
+
+
+
